@@ -4,24 +4,28 @@ menu = "main"
 weight = 1
 +++
 
-# This is me
 
-Welcome to my corner of the internet! Here, I share my thoughts, projects, and experiences related to:
+## Motivation
 
-* **[Area of Expertise 1, e.g., Web Development]**: I enjoy building [type of projects, e.g., performant web applications] with [technologies, e.g., Go, JavaScript, React].
-* **[Area of Expertise 2, e.g., Technical Writing]**: I love breaking down complex topics into clear and concise articles.
-* **[Area of Interest 3, e.g., Photography]**: When I'm not coding, you can find me [your activity, e.g., exploring nature with my camera].
+To keep learning, live a life full of adventure and create something of value
 
----
+## Work
 
-## What I'm Currently Up To
+Currently I work as a Data Scientist and Machine Learning Engineer at Airbus
 
-* **Working on**: [Brief description of a current project or activity, e.g., Developing a new API service for a fintech startup.]
-* **Learning**: [Something new you're studying, e.g., Rust programming language and blockchain fundamentals.]
-* **Reading**: [A book or article you're enjoying, e.g., "Clean Code" by Robert C. Martin.]
+## Hobbies
 
----
+- Body Building (Much recent)
+- Tennis
+- Programming
+- Going for a ride
 
-## My Philosophy
+## What I like
 
-I believe in continuous learning, open-source collaboration, and creating meaningful work that makes a positive impact. I'm always eager to connect with like-minded individuals and explore new opportunities.
+- I love algorithms! I like to make things run faster and efficient with the least complexity
+- I learnt a lot of many different things
+    - **Laravel** is my recent love, after having tried out the messy world of webdev
+    - **Self Deploy** is the new JAM as told by my buddies [@dhh](https://x.com/dhh) and [@levelsio](https://x.com/levelsio)
+    - **SaaS** is what I tried to create with BlipHQ and SkillOutreach, but I didn't get good with marketing
+    - **React Native/ Flutter** is what I gave a try at, but it's just cheaper to hire someone to do it for you
+- Modeling and Simulation is what brought me here. It was an awesome time learning to build robust solvers for PDEs, parallel computing, numerical optimization and linear algebra
