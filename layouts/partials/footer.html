@@ -1,0 +1,16 @@
+<footer class="footer">
+    <div class="footer__inner">
+        <div class="footer__content">
+            <span>{{ .Site.Copyright | safeHTML }}</span>
+            <br>
+            <div class="social-links">
+                {{ with .Site.Params.social.linkedin }}<a href="{{ . }}" target="_blank" rel="noopener"><img
+                        src="/svg/linkedin.svg" alt="LinkedIn" width="24" height="24"></a>{{ end }}
+                {{ with .Site.Params.social.twitter }}<a href="{{ . }}" target="_blank" rel="noopener"><img
+                        src="/svg/twitter.svg" alt="Twitter" width="24" height="24"></a>{{ end }}
+                {{ with .Site.Params.social.github }}<a href="{{ . }}" target="_blank" rel="noopener"><img
+                        src="/svg/github.svg" alt="GitHub" width="24" height="24"></a>{{ end }}
+            </div>
+        </div>
+    </div>
+</footer>

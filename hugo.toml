@@ -51,6 +51,11 @@ ignoreErrors = ["error-disable-taxonomy"]
   # 8601](https://en.wikipedia.org/wiki/ISO_8601) format:
   # dateFormat = "2006-01-02"
 
+  [params.social]
+    linkedin = "https://www.linkedin.com/in/rohit-lad-71759966/"
+    twitter = "https://x.com/rohitosmojitos"
+    github = "https://github.com/RohitLad"
+
 # Configure markup highlighter to match "Bearblog" aesthetics, see 
 # https://gohugo.io/configuration/markup/#highlight
 [markup]
