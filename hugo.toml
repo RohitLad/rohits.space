@@ -6,7 +6,7 @@ baseURL = "https://rohits.space"
 theme = 'hugo-bearblog'
 
 # Basic metadata configuration for your blog.
-title = "Rohit Lad's personal space"
+title = "Rohit's corner on the internet"
 author = "Rohit Lad"
 copyright = "Copyright © 2025, Rohit Lad."
 languageCode = "en-US"
