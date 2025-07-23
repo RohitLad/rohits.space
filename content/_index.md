@@ -29,3 +29,7 @@ Currently I work as a Data Scientist and Machine Learning Engineer at Airbus
     - **SaaS** is what I tried to create with BlipHQ and SkillOutreach, but I didn't get good with marketing
     - **React Native/ Flutter** is what I gave a try at, but it's just cheaper to hire someone to do it for you
 - Modeling and Simulation is what brought me here. It was an awesome time learning to build robust solvers for PDEs, parallel computing, numerical optimization and linear algebra
+
+## More is coming!
+
+I want to keep this website interesting. I plan to make it a single destination to display my projects, blogs, reports, progress etc... So hang tight and see you soon!
